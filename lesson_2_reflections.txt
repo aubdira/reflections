@@ -1,0 +1,7 @@
+1-
+Q::What happens when you initialize a repository? Why do you need to do it?
+A::When you initialize a repo git creates a .git dir for you to manage your repo, and tha's why you need it.
+
+2-
+Q::How is the staging area different from the working directory and the repository? What value do you think it offers?
+A::the staging area is an area in the middle betwene the working directory and the repository that indexes the changes before being commited
