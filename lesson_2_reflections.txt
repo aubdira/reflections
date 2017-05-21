@@ -9,3 +9,7 @@ A::the staging area is an area in the middle betwene the working directory and t
 3-
 Q::How can you use the staging area to make sure you have one commit per logical change?
 A::
+
+4-
+Q::What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A::Branching is usefull for experiment with your code with affect the main branch "master"
