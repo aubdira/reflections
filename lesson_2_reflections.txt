@@ -13,3 +13,7 @@ A::
 4-
 Q::What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A::Branching is usefull for experiment with your code with affect the main branch "master"
+
+5-
+Q::What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A::Merging two branches together result one branche that have a combination of the two branches
