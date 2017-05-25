@@ -17,3 +17,5 @@ A::Branching is usefull for experiment with your code with affect the main branc
 5-
 Q::What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A::Merging two branches together result one branche that have a combination of the two branches
+
+Modifing lesson 2
