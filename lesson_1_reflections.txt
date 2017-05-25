@@ -33,3 +33,5 @@ The resulting display will indicate the lines that were deleted from <commit ID2
 **** With Git one can step through older versions and easily identify where errors might have been introduced and, therefore, easily make the corrections.
 
 **** Now that you have your workspace set up, what do you want to try using Git for?
+
+Modifing lesson 1
