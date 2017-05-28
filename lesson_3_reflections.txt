@@ -1,3 +1,6 @@
 Q::When would you want to use a remote repository rather than keeping all your work local?
 A::Usualy people use a remote repo rather than a local dir because its make the work in team
-    more freely and available for everyone in the team. 
+    more freely and available for everyone in the team.
+
+Q::Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+A:: 
